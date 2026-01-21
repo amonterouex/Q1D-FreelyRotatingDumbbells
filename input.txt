@@ -1,0 +1,18 @@
+#Chain size (1: Tonks Gas, 2: Dimer, 3: Trimer)
+chainsize: 2
+
+#Quantity to compute
+#(1:Density profile, 2:Equation of state, 3:Longitudinal RDF, 4: Poles of G(s))
+quantity: 3
+
+#Set pressure or density (setting density>0 will overwrite pressure value) Not valid if you want to compute de equation of state
+pressure: 1.0
+density: 0.0
+
+#Range in the form min max npoints (2: [pmin, pmax], 3, 5: [xmin, xmax])
+min: 1
+max: 10
+npoints: 2
+
+#Discretization parameter
+nsize: 229
