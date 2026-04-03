@@ -1,4 +1,4 @@
-# SingleFileHardDisks - Structural Properties
+# Orientational ordering and correlations in a quasi-one-dimensional hard-dumbbell fluid
 
 This is the source code accompanying [1] to compute the thermodynamic and structural properties (radial distribution function) of the single-file hard dumbbells fluid, as described in [1].
 
